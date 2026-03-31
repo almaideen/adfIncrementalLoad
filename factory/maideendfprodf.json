@@ -1,0 +1,9 @@
+{
+	"name": "maideendfprodf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18c94fc0-fe21-4384-b2a2-75b6c2225c67",
+		"tenantId": "2ea92c25-b212-401d-88b2-640d5ec9c85f"
+	}
+}
